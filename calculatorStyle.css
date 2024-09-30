@@ -1,0 +1,40 @@
+body{
+    background-color: burlywood;
+    text-align: center;
+    border: 5px solid;
+    border-color: brown;
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 50px;
+    width: 300px;
+}
+input{
+    border: 2px solid black;
+    border-radius: 100%;
+    box-shadow:inset;
+    height: 45px;
+    width: 45px;
+    margin: 5px;
+    font-size: 30px;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: grey;
+}
+#boxes{
+    display: flex;
+    justify-content: center;
+}
+#numbers{
+    background-color: brown;
+}
+#operators{
+    background-color: grey;
+    display: grid;
+}
+#whole{
+    background-color: beige;
+    border-radius: 10px;
+    padding: 10px;
+}
