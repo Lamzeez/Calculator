@@ -1,5 +1,5 @@
 body{
-    background-color: beige;
+    background-color: burlywood;
     text-align: center;
     border: 5px solid;
     border-color: brown;
@@ -34,7 +34,7 @@ input{
     display: grid;
 }
 #whole{
-    background-color: RGB(120,60,56);
+    background-color: beige;
     border-radius: 10px;
     padding: 10px;
 }
